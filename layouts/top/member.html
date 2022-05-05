@@ -9,17 +9,20 @@
 	</article>
 </main>
 
+    
     {{ range .Site.Data.member }}
-        {{ with .Year }}
-            <h4>{{ . }}入学</h4>
-        {{ end }}
-        <div class="cards">
-        {{ range .Members }}
-            {{ partial "member.html" . }}
-        {{ end }}
+        <div class="menberperyear">
+            {{ with .Year }}
+                <h4>{{ . }}入学</h4>
+            {{ end }}
+            <div class="cards">
+            {{ range .Members }}
+                {{ partial "member.html" . }}
+            {{ end }}
+            </div>
+                <br>
         </div>
-            <br>
     {{ end }}
-
+    
 
 {{ end }}

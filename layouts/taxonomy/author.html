@@ -4,37 +4,67 @@
 	{{ $title := .Title }}
 	{{ $member := .Site.Data.member }}
 	
-
-	{{- with .Title }}
-	<header class="main__header">
-		<h1 class="main__title">
-			
-			<!--
-				{{- partial "svg/author.svg" (dict "class" "meta__icon") -}}
-			-->
-
-			{{ range $member }}
-				{{ range .Members }}
-					{{ if eq .Name $title }}
+	<div class = "author_top_flex">
+		<div class = "author_topleft_flexitem">
+			{{ $title := .Title }}
+				{{ range .Site.Data.member }}
+					{{ range .Members }}
+						{{ if eq .Name $title }}
 						{{ if .Icon}}
-							<img class = "author_icon_img" src="{{.Icon}}" alt="">
+								<img class = "author_icon_img" src="{{.Icon}}" alt="">
+							{{ end }}
+						{{ end }}
+					{{ end }}
+				{{ end }}
+				<div class = "author_linkicon">
+					{{ range .Site.Data.member }}
+						{{ range .Members }}
+							{{ if eq .Name $title }}
+								{{ if .Twitter}}
+									<a href="{{.Twitter}}">
+										<img src="/images/top/member/twitter-brands.svg" alt="">
+									</a>
+								{{ end }}
+								{{ if .Homepage}}
+									<a href="{{.Homepage}}">
+										<img src="/images/top/member/house-solid.svg" alt="">
+									</a>
+								{{ end }}
+								{{ if .Git}}
+									<a href="{{.Git}}">
+										<img src="/images/top/member/github-brands.svg" alt="">
+									</a>
+								{{ end }}
+
+						{{ end }}
+					{{ end }}
+				{{ end }}
+			</div>
+		</div>
+
+		<div class = "author_topright_flexitem">
+			{{- with .Title }}
+			<header class="main__header__author2">
+				<h1 class="main__title__author">{{ . }}</h1>
+			</header>
+			{{- end }}
+			{{ range .Site.Data.member }}
+			{{ range .Members }}
+					{{ if eq .Name $title }}
+					{{ if .Description}}
+							<p class = "nomargin">{{.Description}}</p>
 						{{ end }}
 					{{ end }}
 				{{ end }}
 			{{ end }}
-	
-			{{ . }}
-		</h1>
-	</header>
-	{{- end }}
-
-	<!--
+		</div>
+	</div>
 	{{- with .Content }}
 	<div class="content main__content clearfix">
 		{{ . }}
 	</div>
 	{{- end }}
-	-->
+	
 
 	<p>{{$title}}の関連記事</p>
 
