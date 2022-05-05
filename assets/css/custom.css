@@ -1459,6 +1459,7 @@ textarea {
 	display: flex;
 	flex-wrap: wrap;
 	align-items:flex-start;
+	justify-content: center;
   }
 
 .card{
@@ -1470,7 +1471,7 @@ textarea {
   display: flex;
   /* サムネイル, ドキュメント(名前、タグ、description, SNSアイコンなど)、を縦に並べる */
   flex-direction: column;
-  flex: 0 0 30%;
+  flex: 0 0 32%;
   margin: 0.6%;
   display: inline-block;
 }
@@ -1478,7 +1479,7 @@ textarea {
 /* カード(スマホ) */
 @media screen and (max-width: 600px) {
   .card {
-    flex: 0 0 100%;
+    flex: 0 0 48%;
   }
 }
 
@@ -1517,8 +1518,6 @@ textarea {
   max-height: 30em;
 }
 
-.socials {
-}
 .link-external {
   fill: #bababa;
 }
@@ -1526,7 +1525,7 @@ textarea {
   fill: #3088d4;
 }
 
-.member_icon_img{
+.member_icon_img_2{
  	height: 100%;
 	max-height: 50px;
 	width: auto;
@@ -1566,7 +1565,7 @@ textarea {
 	flex: 0 0 70%;
 }
 
-.author_icon_img{
+.author_icon_img_2{
 	width: 80%;
 	border-radius: 30%;
 }

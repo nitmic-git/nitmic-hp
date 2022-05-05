@@ -9,6 +9,16 @@
 }
 
 /* カード */
+.author_icon_img {
+    height: 40px;
+    width: 40px;
+}
+
+.member_icon_img {
+    height: 20px;
+    width: 20px;
+}
+
 .member_name {
 	font-weight: 500;
 }
