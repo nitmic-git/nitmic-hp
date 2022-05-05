@@ -1462,8 +1462,20 @@ textarea {
 	justify-content: center;
   }
 
-.card{
+#normal{
 	background-color:#999;
+}
+#composer{
+	background-color:#b5dbfc;
+}
+#programer{
+	background-color:rgb(250, 204, 166);
+}
+#designer2d{
+	background-color:#e5eca1;
+}
+#designer3d{
+	background-color:#9ff7ae;
 }
 
 /* カード */

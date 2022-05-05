@@ -1,25 +1,35 @@
 
 {{ $name := .Name}}
-
-<div class="card">
-    <a href = "/authors/{{ urlize $name }}" class = "member_name  member-flex">
+{{$job := .Tags}}
+{{if eq $job "プログラマ"}}
+    <div class="card" id = "programer" >
+{{else if eq $job "3Dデザイナー"}}
+    <div class="card" id = "designer3d" >
+{{else if eq $job "2Dデザイナー"}}
+    <div class="card" id = "designer2d" >
+{{else if eq $job "コンポーザー"}}
+    <div class="card" id = "composer" >
+{{else}}
+    <div class="card" id = "normal" >
+{{end}}
+        <a href = "/authors/{{ urlize $name }}" class = "member_name  member-flex">
+        
+            <!--
+            {{ with .Thumbnail }}
+            <img class="thumbnail" src="{{ . }}">
+            {{ end }}
+            -->
     
-        <!--
-        {{ with .Thumbnail }}
-        <img class="thumbnail" src="{{ . }}">
-        {{ end }}
-        -->
-  
-        <div>
-            {{if .Icon}}
-                <img class = "member_icon_img_2" src="{{ .Icon }}" alt="a">
-            {{end}}
-        </div>
+            <div>
+                {{if .Icon}}
+                    <img class = "member_icon_img_2" src="{{ .Icon }}" alt="a">
+                {{end}}
+            </div>
 
-        <div class = "incard">   
+            <div class = "incard">   
 
-            <div class="name_locate">{{ $name }}</div>
-        </div>
-    </a>
-</div>
+                <div class="name_locate">{{ $name }}</div>
+            </div>
+        </a>
+    </div>
 

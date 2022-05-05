@@ -4,132 +4,132 @@
     "Members": [
       { 
         "Name":"MT1",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/MT1.jpg"
       },
       { 
         "Name":"がわ",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/がわ.png"
       },
       { 
         "Name":"kk",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/kk.jpg"
       },
       { 
         "Name":"S.A.Taz",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/S.A.Taz.png"
       },
       { 
         "Name":"きひろ",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/きひろ.png"
       },
       { 
         "Name":"はやし",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/noicon_blue.png"
       },
       { 
         "Name":"Taku-san",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/Taku-san.jpg"
       },
       { 
         "Name":"いず",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/いず.png"
       },
       { 
         "Name":"Yujin-K",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/Yujin-k.jpg"
       },
       { 
         "Name":"ムク",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/ムク.png"
       },
       { 
         "Name":"Artst",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/Artst.png"
       },
       { 
         "Name":"shinato",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/shinato.jpg"
       },
       { 
         "Name":"きょう",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/きょう.jpg"
       },
       { 
         "Name":"かんぺい",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2021/かんぺい.png"
       },
       { 
         "Name":"フジソン",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/noicon_green.png"
       },
       { 
         "Name":"未底",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Icon":"/images/members_icon/2021/未底.png"
       },
       { 
         "Name":"塩味",
-        "Tags": ["3Dデザイナー"],
+        "Tags": "3Dデザイナー",
         "Icon":"/images/members_icon/noicon_paple.png"
       },
       { 
         "Name":"ジュンセイ",
-        "Tags": ["3Dデザイナー"],
+        "Tags": "3Dデザイナー",
         "Icon":"/images/members_icon/2021/ジュンセイ.png"
       },
       { 
         "Name":"乙矢",
-        "Tags": ["3Dデザイナー"],
+        "Tags": "3Dデザイナー",
         "Icon":"/images/members_icon/2021/乙矢.jpg"
       },
       { 
         "Name":"ニマーン",
-        "Tags": ["3Dデザイナー"],
+        "Tags": "3Dデザイナー",
         "Icon":"/images/members_icon/2021/ニマーン.jpg"
       },
       {
         "Name": "Thike",
-        "Tags": [ "コンポーザー" ],
+        "Tags": "コンポーザー",
         "Icon":"/images/members_icon/2021/Thike.png"
       },
       {
           "Name": "Mass",
-          "Tags": [ "コンポーザー" ],
+          "Tags": "コンポーザー",
           "Icon":"/images/members_icon/2021/Mass.jpg"
       },
       {
           "Name": "セレン",
-          "Tags": [ "コンポーザー" ],
+          "Tags": "コンポーザー",
           "Icon":"/images/members_icon/2021/セレン.jpg"
       },
       {
         "Name": "shenzel",
-        "Tags": [ "コンポーザー" ],
+        "Tags": "コンポーザー",
         "Icon":"/images/members_icon/2021/shenzel.jpg"
       },
       {
         "Name": "たくみ",
-        "Tags": [ " " ],
+        "Tags": " ",
         "Icon":"/images/members_icon/noicon_lightblue.png"
       },
       {
         "Name": "とり",
-        "Tags": [ " " ],
+        "Tags": " ",
         "Icon":"/images/members_icon/2021/とり.gif"
       }
     ]
@@ -139,7 +139,7 @@
     "Members": [
       {
         "Name":"dokudami",
-        "Tags": ["プログラマ"],
+        "Tags":"プログラマ",
         "Description":"こんにちは",
         "Icon":"/images/members_icon/2020/dokudami.png",
         "Twitter":"https://twitter.com/dokudamichang",
@@ -148,61 +148,61 @@
       },
       {
         "Name":"kuru",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Description":"",
         "Icon":"/images/members_icon/2020/kuru.png"
       },
       {
         "Name":"りーくん",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Description":"",
         "Icon":"/images/members_icon/2020/りーくん.png"
       },
       {
         "Name":"Sora513",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Description":"",
         "Icon":"/images/members_icon/2020/Sora513.jpg"
       },
       {
         "Name":"Yuji",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Description":"",
         "Icon":"/images/members_icon/noicon_orenze.png"
       },
       {
         "Name":"たいち",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Description":"",
         "Icon":"/images/members_icon/2020/たいち.png"
       },
       {
         "Name":"黒豆腐",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Description":"",
         "Icon":"/images/members_icon/2020/黒豆腐.jpg"
       },
       {
         "Name":"ナス好き",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Description":"",
         "Icon":"/images/members_icon/2020/ナス好き.png"
       },
       {
         "Name":"しお",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Description":"",
         "Icon":"/images/members_icon/2020/しお.png"
       },
       {
         "Name":"はっしー",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Description":"",
         "Icon":"/images/members_icon/2020/はっしー.jpg"
       },
       {
         "Name":"tamaki",
-        "Tags": ["3Dデザイナー"],
+        "Tags": "3Dデザイナー",
         "Description":"",
         "Icon":"/images/members_icon/2020/tamaki.jpg",
         "Twitter":"https://twitter.com/TmgHiro",
@@ -212,19 +212,19 @@
       }, 
       {
         "Name":"mitsuya",
-        "Tags": ["3Dデザイナー"],
+        "Tags": "3Dデザイナー",
         "Description":"",
         "Icon":"/images/members_icon/2020/mituya.png"
       },
       {
         "Name":"sui",
-        "Tags": ["コンポーザー"],
+        "Tags": "コンポーザー",
         "Description":"",
         "Icon":"/images/members_icon/2020/sui.png"
       },
       {
         "Name":"こーせー",
-        "Tags": ["コンポーザー"],
+        "Tags": "コンポーザー",
         "Description":"",
         "Icon":"/images/members_icon/2020/こーせー.png"
       }
@@ -235,68 +235,68 @@
     "Members": [
       {
         "Name":"アルエット",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2019/アルエット.png"
       },
       {
         "Name":"Nov",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2019/Nov.png"
       }, 
       {
         "Name":"オガトモ",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2019/おがとも.png"
       }, 
       {
         "Name":"nerune",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2019/nerune.jpg"
       }, 
       {
         "Name":"ホソヤ",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2019/ホソヤ.jpg"
       },  
       {
         "Name":"りお",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/noicon_yellow.png"
       }, 
       {
         "Name":"スズキ",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Icon":"/images/members_icon/2019/スズキ.png"
       },   
       {
         "Name":"深月詠狐",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Icon":"/images/members_icon/2019/深月詠狐.jpg"
       },   
       {
         "Name":"おばこう",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Icon":"/images/members_icon/2019/おばこう.png"
       },   
       {
         "Name":"東西南アカリ",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Description":"",
         "Icon":"/images/members_icon/2019/東西南アカリ.jpg"
       },
       {
         "Name":"fibrin",
-        "Tags": ["3Dデザイナー"],
+        "Tags": "3Dデザイナー",
         "Icon":"/images/members_icon/2019/fibrin.jpg"
       },
       {
         "Name":"真言",
-        "Tags": ["コンポーザー"],
+        "Tags": "コンポーザー",
         "Icon":"/images/members_icon/2019/shingon.png"
       },
       {
         "Name":"昆布",
-        "Tags": ["コンポーザー"],
+        "Tags": "コンポーザー",
         "Icon":"/images/members_icon/2019/昆布.png"
       }
     ]
@@ -306,45 +306,45 @@
     "Members": [
       {
         "Name":"ru",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2018/ru.png"
       },
       {
         "Name":"Myaa",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2018/Myaa.png"
       },
       {
         "Name":"ntk",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2018/ntk.png"
       },
       {
         "Name":"Han",
-        "Tags": ["プログラマ"],
+        "Tags": "プログラマ",
         "Icon":"/images/members_icon/2018/Han.jpg"
       },
       {
         "Name":"kiritannpo",
-        "Tags": ["2Dデザイナー"],
+        "Tags": "2Dデザイナー",
         "Description":"",
         "Icon":"/images/members_icon/2018/kiritannpo.png"
       },
       {
         "Name":"mono",
-        "Tags": ["コンポーザー"],
+        "Tags": "コンポーザー",
         "Description":"",
         "Icon":"/images/members_icon/2018/mono.png"
       },
       {
         "Name":"dotsome",
-        "Tags": ["コンポーザー"],
+        "Tags": "コンポーザー",
         "Description":"",
         "Icon":"/images/members_icon/2018/dotsome.png"
       },
       {
         "Name":"bokachin",
-        "Tags": [" "],
+        "Tags": " ",
         "Description":"",
         "Icon":"/images/members_icon/2018/bokachin.png"
       }
