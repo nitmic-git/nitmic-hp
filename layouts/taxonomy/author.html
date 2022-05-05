@@ -43,15 +43,24 @@
 		</div>
 
 		<div class = "author_topright_flexitem">
+			{{ range .Site.Data.member }}
+				{{ range .Members }}
+					{{ if eq .Name $title }}
+						{{.Tags}}
+					{{ end }}
+				{{ end }}
+			{{ end }}
+
 			{{- with .Title }}
 			<header class="main__header__author2">
 				<h1 class="main__title__author">{{ . }}</h1>
 			</header>
 			{{- end }}
+
 			{{ range .Site.Data.member }}
 			{{ range .Members }}
 					{{ if eq .Name $title }}
-					{{ if .Description}}
+						{{ if .Description}}
 							<p class = "nomargin">{{.Description}}</p>
 						{{ end }}
 					{{ end }}
