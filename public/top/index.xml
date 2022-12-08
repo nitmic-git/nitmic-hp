@@ -6,23 +6,14 @@
     <description>Recent content in Tops on NITMic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://nitmic.club.nitech.ac.jp/top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://nitmic.club.nitech.ac.jp/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NITMicについて</title>
       <link>http://nitmic.club.nitech.ac.jp/top/about/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>http://nitmic.club.nitech.ac.jp/top/about/</guid>
-      <description>名古屋工業大学コンピュータクラブNITMicです。 NITMicの主な活動はゲーム制作です。 部員は👾プログラマ、🎨デザイナー、🎹コンポーザーのいずれかの役職に所属し、 チームを組んで、コンテストや学校祭に向けてゲームを作成しています。 また、#nitmic1draw</description>
-    </item>
-    
-    <item>
-      <title>アクセス</title>
-      <link>http://nitmic.club.nitech.ac.jp/top/access/</link>
-      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://nitmic.club.nitech.ac.jp/top/access/</guid>
-      <description>活動場所 部室 ・名古屋工業大学御器所キャンパス ・55号館4階 ・第10共用室 お問い合わせ お問い合わせは下記のメールアドレス、 もしくは公式ツイッターのダイレクトメッセージによろしくお願いします。 ➡NITMic公式メールアドレス club.nitmic.@gmail.com ➡NITMic公式ツイッター</description>
+      <description>初めまして、名古屋工業大学コンピュータクラブNITMicです。 NITMicはゲーム制作を始めとするデジタル創作活動を行うサークルです。 部員は👾プログラマ、🎨デザイナー、🎹コンポーザーのいずれかの役職に所属し、 チームを組んで、コンテストや学校祭に向けてゲームを作</description>
     </item>
     
     <item>
@@ -31,7 +22,16 @@
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://nitmic.club.nitech.ac.jp/top/join/</guid>
-      <description>NITMicに興味を持っていただきありがとうございます。 本年度は、オンライン入部というかたちをとっております。 ➡NITMic入部Googleフォーム</description>
+      <description>NITMicに興味を持っていただきありがとうございます。 本年度は、オンライン入部というかたちをとっております。 ➡NITMic入部Googleフォーム 入部フォーム送信後、担当者からメールをさせて頂きますので、そちらをお待ちください。</description>
+    </item>
+    
+    <item>
+      <title>アクセス</title>
+      <link>http://nitmic.club.nitech.ac.jp/top/access/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://nitmic.club.nitech.ac.jp/top/access/</guid>
+      <description>活動場所 部室 ・〒466-8555 名古屋市昭和区御器所町 ・名古屋工業大学御器所キャンパス ・55号館4階 ・第10共用室 マップ 地図 名古屋工業大学の北西に位置する55号館（課外活動棟）4階に部室を置かせてもらっております。 講義の空きコマで暇な部員がいたりします。 入部希</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://nitmic.club.nitech.ac.jp/top/member/</guid>
-      <description>aaaaaaaaaaaaaaaaaaaa</description>
+      <description></description>
     </item>
     
   </channel>
