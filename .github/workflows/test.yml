@@ -1,0 +1,24 @@
+name: Generate and Commit Hello.txt
+
+on:
+  push:
+    branches:
+      - workflow_test
+
+jobs:
+  generate_and_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Hello.txt
+        run: echo "Hello, World!" > hello.txt
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add hello.txt
+          git commit -m "Add hello.txt"
+          git push origin workflow_test
