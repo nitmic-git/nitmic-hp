@@ -1,0 +1,8 @@
+{
+	"name": "Node.js",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye",
+	"features": {
+		"ghcr.io/devcontainers/features/hugo:1": {}
+	},
+	"postCreateCommand": "git submodule update --init --recursive"
+}
