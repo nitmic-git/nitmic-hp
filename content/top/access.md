@@ -1,11 +1,11 @@
-+++
+---
 title = "アクセス"
 description = "NITMicアクセス"
 date = "2022-04-08"
 menu = "main"
 author = "tamaki"
 weight = "3"
-+++
+---
 
 ## 活動場所
 #####  部室

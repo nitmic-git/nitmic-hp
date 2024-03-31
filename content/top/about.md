@@ -1,4 +1,4 @@
-+++
+---
 title = "NITMicについて"
 description = "NITMicについて"
 date = "2022-02-25"
@@ -8,7 +8,7 @@ thumbnail= "images/top/about/koudaisai2022.jpg"
 sidebar = "right"
 menu= "main"
 weight = "1"
-+++
+---
 
 初めまして、名古屋工業大学コンピュータクラブNITMicです。  
 
