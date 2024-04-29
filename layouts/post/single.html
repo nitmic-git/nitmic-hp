@@ -4,19 +4,20 @@
 		<header class="post__header">
 			<br>
 
-			{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
-			<h1 class="post__title">{{ .Title }}</h1>
+			{{/*  {{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
+			<h1 class="post__title">{{ .Title }}</h1>  */}}
 
-			{{- with .Params.lead }}
+			{{ partial "post_header.html" (dict "class" "post" "page" .) }}
+
+			{{/*  {{- with .Params.lead }}
 			<p class="post__lead">{{ . }}</p>
-			{{- end }}
+			{{- end }}  */}}
 			
-			
+
 
 			{{ with partial "post_meta.html" . -}}
 			<div class="post__meta meta">{{ . }}</div>
 			{{- end }}
-			
 
 		</header>
 		<!--
