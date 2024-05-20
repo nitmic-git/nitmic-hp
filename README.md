@@ -1,4 +1,4 @@
-# nitmic-hp
+# nitmic-website
 
 ![](https://github.com/nitmic-git/nitmic-website/actions/workflows/hugo.yml/badge.svg)
 
